@@ -1,4 +1,4 @@
-![snake animation](https://github.com/ismaeelbashir03/ismaeelbashir03/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/ismaeelbashir03/ismaeelbashir03/output/github-contribution-grid-snake-dark.svg)
 
 # About Me:
 I’m currently a studying a Masters of Informatics at the University of Edinburgh<br>I'm interested in machine learning and finance
